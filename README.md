@@ -1,16 +1,21 @@
-### Hi there 👋
+# Miroslav Novotný's GitHub
 
-<!--
-**Miraneek/Miraneek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey!👋 I'm Miroslav Novotný, a coder student in IT high school exploring HTML, CSS, JavaScript, React, and Java. Currently mastering OOP in Java and dabbling in C# and Python basics.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML/CSS:** Proficient in web design.
+- **JavaScript/React:** Actively building dynamic web applications.
+- **Java:** Advancing in Object-Oriented Programming.
+- **C# and Python:** Familiar with basics, eager to delve deeper.
+
+## 🌱 Learning
+
+- Advancing JavaScript proficiency.
+- Deepening React knowledge.
+- Ongoing Java exploration.
+- Expanding C# and Python skills.
+
+## 📨 How to reach me
+
+- You can contact me on miroslav.novotny64@gmail.com
