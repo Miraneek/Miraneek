@@ -1,6 +1,6 @@
 # Miroslav Novotný's GitHub
 
-Hey!👋 I'm Miroslav Novotný, a coder student in IT high school exploring HTML, CSS, JavaScript, React, and Java. Currently mastering OOP in Java and dabbling in C# and Python basics.
+Hey!👋 I'm Miroslav Novotný, a coder student in IT high school exploring HTML, CSS, JavaScript, React, and Java. 
 
 ## 🚀 Skills
 
