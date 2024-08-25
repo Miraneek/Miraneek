@@ -3,7 +3,7 @@
 
 # 💻My Tech stack
 
-Checkout my repositories to see my tech stack in action. My best work is currently [Another to do list app](https://github.com/Miraneek/Another-To-Do-List-App)
+Checkout my repositories to see my tech stack in action. My best work is currently [Another to do list app](https://github.com/Miraneek/Another-To-Do-List-App).
 
 ## 🚀My main focus
 
