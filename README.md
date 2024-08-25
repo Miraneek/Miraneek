@@ -1,4 +1,5 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"> Hi there 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=34&pause=1000&color=FF07AF&vCenter=true&width=435&lines=I'm+Miroslav+Novotn%C3%BD;I'm+a+IT+student;I+like+making+web+apps;Check+out+my+projects;Welcome+to+my+github+page)](https://git.io/typing-svg)
 
 # 💻My Tech stack
